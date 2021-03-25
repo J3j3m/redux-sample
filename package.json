@@ -1,0 +1,13 @@
+{
+  "name": "formation-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/redux": "^3.6.0"
+  }
+}
